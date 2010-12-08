@@ -61,7 +61,7 @@ set softtabstop=4
 set expandtab
 
 " bs over everything
-"set backspace=indened,eol,start
+set backspace=indened,eol,start
 
 " show matching braces
 set showmatch
